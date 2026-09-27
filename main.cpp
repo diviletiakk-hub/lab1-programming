@@ -7,7 +7,7 @@ auto square(int x) -> int {
 
 int main() {
     // Униформ-инициализация
-    auto number{7};
+    auto number{5};
 
     // Вызов функции
     auto result = square(number);
@@ -17,3 +17,5 @@ int main() {
 
     return 0;
 }
+// Третий коммит
+// Третий коммит
